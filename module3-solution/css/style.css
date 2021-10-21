@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Ephesis&family=Poppins:wght@200;400;700&display=swap");
+
+body {
+	font-size: 16px;
+	background: #353535;
+	color: #eee;
+}
+
+#navbar {
+	background-color: #ba3423;
+	border: 0px;
+	border-radius: 0;
+}
+
+#collapsable-nav {
+	border-color: #fff;
+}
+
+#welcome {
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav > li > a {
+	color: #fff;
+}
+
+.navbar-default .navbar-brand {
+	font-size: 1.5em;
+}
+
+#nav-list span.glyphicon {
+	margin-right: 5px;
+}
+
+div.contenido h2 {
+	font-family: "Ephesis", cursive;
+	font-size: 2em;
+}
+
+div.contenido p {
+	line-height: 1.5;
+	margin: 0;
+}
+
+div.contenido a {
+	display: block;
+	margin-top: 10px;
+	color: #fff;
+}
+
+div.contenido a:hover {
+	color: #fff;
+}
+
+div.contenido {
+	margin-bottom: 30px;
+	padding: 10px 20px;
+	background-color: rgb(20, 20, 20);
+}
+
+.contenido h2.title-menu {
+	line-height: 1.3em;
+	background-color: #ba3423;
+	margin: 10px 0px;
+}
+
+.contenido p a > span.glyphicon {
+	margin-right: 5px;
+}
